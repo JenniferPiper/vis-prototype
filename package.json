@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "tests for code visualizer",
+  "main": "reverse-string.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fulltest": "eslint . && jest --coverage --forceExit --runInBand",
+    "test": "jest --coverage --forceExit --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenwill/vis-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenwill/vis-prototype/issues"
+  },
+  "homepage": "https://github.com/jenwill/vis-prototype#readme"
+}
