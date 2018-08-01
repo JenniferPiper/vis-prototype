@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jenwill/vis-prototype/issues"
   },
-  "homepage": "https://github.com/jenwill/vis-prototype#readme"
+  "homepage": "https://github.com/jenwill/vis-prototype#readme",
+  "dependencies": {
+    "eslint": "^5.2.0"
+  }
 }
