@@ -11,5 +11,5 @@ fileReader.read = (filePath, callback) => {
     }
     const fileString = fileBuffer.toString('utf8');
     return callback(fileString);
-  })
+  });
 };
